@@ -22,7 +22,7 @@ E como cada etapa se conecta à próxima.
 
 O Step Functions executa esse fluxo de forma visual, controlada e rastreável, permitindo acompanhar cada execução em tempo real pelo console da AWS.
 
-# Exemplo prático
+# Exemplo 
 
 Imagine um processo de cadastro de usuário:
 
